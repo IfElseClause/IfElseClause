@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @IfElseClause
-- 👀 I’m interested in anything coding related (specifically with c#)
 - 😄 Pronouns: He/His/Him
 
 <!---
